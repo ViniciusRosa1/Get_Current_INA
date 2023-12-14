@@ -5,4 +5,4 @@ Para implementar a leitura de voltagem e corrente de uma bateria utilizando o Ar
 
 
 ![Texto Alternativo](
-/Users/viniciusrosa/Desktop/Vinicius/Facul/2023.2/Ubiquos/sistema.jpg)
+/Users/viniciusrosa/Desktop/Vinicius/Facul/2023.2/Ubiquos/sistema.png)
