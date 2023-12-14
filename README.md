@@ -5,6 +5,6 @@ Para implementar a leitura de voltagem e corrente de uma bateria utilizando o Ar
 
 ![sistema](https://github.com/ViniciusRosa1/Get_Current_INA/assets/84021144/e5b0c040-5e9d-4272-98fe-d33cfdc52a18)
 
-# Montagem do circuito:
+## Montagem do circuito:
 
 ![placa](https://github.com/ViniciusRosa1/Get_Current_INA/assets/84021144/d922d1e2-e664-4561-bc7d-46e437e63aab)
